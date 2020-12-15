@@ -8,5 +8,4 @@ numpy==1.19.4
 opencv-python==4.4.0.46
 Pillow==8.0.1
 regex==2020.11.13
-torch==0.4.1
 tqdm==4.54.0
